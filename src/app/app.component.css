@@ -1,0 +1,16 @@
+.login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loginCenter{
+  padding-top: 50%;
+}
+p.fontPacifico{
+  font-family: 'Pacifico', cursive;
+  color: gray;
+  font-size: 17px;
+}
+div.loginwall{
+  background-image: url();
+}
